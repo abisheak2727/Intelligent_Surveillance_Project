@@ -1,5 +1,9 @@
 model/
 output/
 logs/
+dataset/
+*.pt
+*.jpg
+*.png
 __pycache__/
 *.pyc
